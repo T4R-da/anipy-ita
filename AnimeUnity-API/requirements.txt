@@ -1,0 +1,6 @@
+fastapi==0.111.0
+uvicorn[standard]
+httpx
+aiofiles
+beautifulsoup4
+cloudscraper
