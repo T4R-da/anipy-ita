@@ -1,6 +1,6 @@
 # This program is specifically made for Italian users since it uses italian subs
 
-![sito logo](https://cdn.corenexis.com/view/4252568720)
+![sito logo]([https://cdn.corenexis.com/view/4252568720](https://cdn.phototourl.com/free/2026-06-07-ea7aa282-13ce-4572-b0a9-b5c7ac7999b1.png))
 
 ## ANIMEUNITY DOWNLOADER/STREAMER
 
